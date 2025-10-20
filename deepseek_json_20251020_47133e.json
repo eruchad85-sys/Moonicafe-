@@ -1,0 +1,13 @@
+{
+  "name": "moonicafe-pos",
+  "version": "1.0.0",
+  "description": "A modern POS system for cafes",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server .",
+    "build": "echo 'No build process needed'"
+  },
+  "keywords": ["pos", "cafe", "restaurant", "point-of-sale"],
+  "author": "Moonicafe",
+  "license": "MIT"
+}
